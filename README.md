@@ -18,7 +18,8 @@ Please check the [official documentation](https://botpress.io/docs/developers/cr
 			...
 		]
 		...
-	}```
+	   }
+	```
 
 4. Start Botpress: `yarn start`
 5. Choose any bots in your workspace, then you should see the module in the sidebar !
